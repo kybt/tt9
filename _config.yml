@@ -1,0 +1,12 @@
+name: Yeti DNS Project
+url: http://kybt.github.io/tt9
+description: --A Live Root DNS Server System Testbed
+
+permalink: /:year/:month/:day/:title/
+paginate: 3
+highlighter: pygments
+#plugins: ./_plugins
+#gems: [jekyll-assets]
+excerpt_separator:  '<!-- more -->'
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
